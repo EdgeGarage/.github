@@ -7,6 +7,11 @@ No fluff—just the artifacts that helped us move from **evidence to execution**
 
 → More about: https://scheibl-partner.com/edgegarage
 
+**Support**
+If this scratchpad saved you time, consider supporting:
+
+- Ko‑fi → https://ko-fi.com/SCHEIBL  
+
 ---
 
 **Legal:**  
