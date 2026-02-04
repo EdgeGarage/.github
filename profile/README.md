@@ -2,7 +2,7 @@
 
 SCHEIBL+Partner works in Program Control, Budget Governance & Scientific Modeling.
 
-This GitHub org is our **scratchpad**: side projects, experiment logs, reproducible notes—and the occasional idea that just wouldn’t fit anywhere else.
+This GitHub org is our **scratchpad**: side projects, experiment logs, reproducible notes - and the occasional idea that just wouldn’t fit anywhere else.
 No fluff—just the artifacts that helped us move from **evidence to execution**. If any of it saves you time or sparks an idea, even better.
 
 → More about: https://scheibl-partner.com/edgegarage
