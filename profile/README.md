@@ -10,7 +10,7 @@ No fluff—just the artifacts that helped us move from **evidence to execution**
 **Support**
 If this scratchpad saved you time, consider supporting:
 
-- BTC: bc1qu48sg78ygmdmfn2er5u4yc6swasw0zlal46p79
+- BTC → bc1qu48sg78ygmdmfn2er5u4yc6swasw0zlal46p79
 - Ko‑fi → https://ko-fi.com/SCHEIBL  
 
 ---
